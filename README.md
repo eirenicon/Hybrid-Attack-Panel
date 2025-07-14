@@ -1,5 +1,7 @@
 # Hybrid Attack Panel (HAP)
 
+> ⚠️ **Project Status:** Early-stage, actively evolving. Contributions and collaboration welcomed.
+
 **Hybrid Attack Panel (HAP)** is a focused intelligence initiative within the Ardens research framework. It tracks, documents, and analyzes hybrid threats — actions that blur the lines between war and peace, physical and digital, state and non-state actors.
 
 This repository contains the HAP core structure:  
@@ -13,13 +15,14 @@ This repository contains the HAP core structure:
 
 ## Why HAP?
 
-Hybrid threats are not anomalies — they are the new baseline.  
-Understanding them requires more than snapshots; it demands pattern recognition across fractured, asynchronous signals.
+Hybrid threats are not anomalies; they are the new baseline.
 
-HAP is designed to:
+Understanding them requires more than snapshots — it demands pattern recognition across fractured, asynchronous signals.
+
+HAP aims to:
 
 - Track emerging attack patterns in real time  
-- Identify overlaps between cyber, physical, and psychological fronts  
+- Identify overlaps across cyber, physical, and psychological domains  
 - Normalize fragmented OSINT into actionable insights  
 - Build and maintain a panel for visibility and trend analysis
 
@@ -42,13 +45,19 @@ All early-stage. All open.
 
 We welcome help — technical, analytical, or observational.
 
-- Submit new data points for the [Live Activity Log](docs/activity-log.md)
-- Suggest sources for the [Feed Index](docs/feed-index.md)
-- Propose new typology refinements ([typology.md](docs/typology.md))
-- Submit code for parsing, automation, or enrichment
+- Submit new data points for the [Live Activity Log](https://github.com/eirenicon/Hybrid-Attack-Panel/wiki/Live-Activity-Log)  
+- Suggest sources for the [Feed Index](https://github.com/eirenicon/Hybrid-Attack-Panel/wiki/Feed-Index)  
+- Propose new typology refinements ([Signal Typology](https://github.com/eirenicon/Hybrid-Attack-Panel/wiki/Signal-Typology))  
+- Submit code for parsing, automation, or enrichment  
 - File issues or use discussions to raise edge cases or trends
 
 See [CONTRIBUTING.md](docs/contributing.md) for details.
+
+---
+
+## Getting Started
+
+Visit the [Hybrid Attack Panel Wiki](https://github.com/eirenicon/Hybrid-Attack-Panel/wiki) for project documentation, signal typologies, and task checklists.
 
 ---
 
@@ -64,3 +73,8 @@ HAP began as a research track within [Ardens](https://github.com/eirenicon/Arden
 
 For foundational context, visit the Ardens Wiki:  
 📘 [https://github.com/eirenicon/Ardens/wiki](https://github.com/eirenicon/Ardens/wiki)
+
+---
+
+For questions, suggestions, or to join the project, contact us via the  
+[Eirenicon Contact Page](https://eirenicon.org/contact/)
