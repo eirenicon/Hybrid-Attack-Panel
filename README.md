@@ -61,6 +61,26 @@ Visit the [Hybrid Attack Panel Wiki](https://github.com/eirenicon/Hybrid-Attack-
 
 ---
 
+## Open Source Commitment & Funding Disclaimer
+
+The Hybrid Attack Panel (HAP) is developed exclusively with **open source, zero-cost software** and relies on voluntary community contributions. Our priority is maintaining transparency, accessibility, and reproducibility without reliance on proprietary or paid services.
+
+**What this means:**
+
+- All tools, feeds, and infrastructure used are freely available and auditable.  
+- There is no budget for paid data, commercial platforms, or proprietary analytics.  
+- Development is paced by volunteer effort, leveraging existing open projects where possible.
+
+**If funding becomes available:**
+
+- We will consider expanding capabilities, either through bespoke development or integration of additional data sources.  
+- Any funded work would be transparently documented and, where feasible, released back into the open source realm.  
+- Funding partnerships would be governed by mutual agreement between contributors and funders, respecting the core ethos of open collaboration.
+
+This approach ensures that HAP remains sustainable, trustworthy, and community-driven — no matter the level of external support.
+
+---
+
 ## License
 
 All materials are shared under a permissive license to encourage broad use, remixing, and adaptation. Attribution is requested. See [LICENSE.md](LICENSE.md).
